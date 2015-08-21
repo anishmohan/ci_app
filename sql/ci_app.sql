@@ -1,4 +1,4 @@
-drop databse if exists ci_app_db;
+drop database if exists ci_app_db;
 
 create database ci_app_db;
 
